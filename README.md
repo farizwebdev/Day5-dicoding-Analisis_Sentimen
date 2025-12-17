@@ -55,10 +55,10 @@ Evaluasi dilakukan menggunakan metrik **Akurasi** dan **Confusion Matrix**. Beri
 
 | Algoritma | Akurasi | Keterangan |
 | :--- | :--- | :--- |
-| **Logistic Regression** | **XX%** | Performa Terbaik (Contoh) |
-| Random Forest | XX% | - |
-| Naive Bayes | XX% | - |
-| Decision Tree | XX% | - |
+| **Logistic Regression** | **0.938713%** | Performa Terbaik |
+| Random Forest | 0.916023% | - |
+| Naive Bayes | 0.883860% | - |
+| Decision Tree | 0.889123% | - |
 
 ## Cara Menjalankan Project
 
