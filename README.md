@@ -11,7 +11,7 @@
 ![NLP](https://img.shields.io/badge/Domain-NLP-green)
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis sentimen pengguna terhadap aplikasi **"Al Quran Indonesia"** di Google Play Store. Sistem ini mengklasifikasikan ulasan pengguna menjadi dua kategori sentimen: **Positif** dan **Negatif**.
+Proyekk ini bertujuan untuk menganalisis sentimen pengguna terhadap aplikasi **"Al Quran Indonesia"** di Google Play Store. Sistem ini mengklasifikasikan ulasan pengguna menjadi dua kategori sentimen: **Positif** dan **Negatif**.
 
 Proyek ini menerapkan pendekatan *End-to-End Machine Learning*, dimulai dari pengumpulan data mandiri (*scraping*), pemrosesan teks bahasa Indonesia, hingga komparasi empat algoritma klasifikasi untuk mencari performa terbaik.
 
